@@ -2,7 +2,7 @@
 
 Advanced leverage trading platform built on Solana with real-time dashboard.
 
-**Live Demo:** https://your-app.onrender.com (if deployed)
+
 
 ## 🎯 Features
 
@@ -137,8 +137,9 @@ MIT License - Feel free to use this project
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+**Saikrishna Janagama**
+- GitHub: https://github.com/Saikrishna-Janagama
+- Email: Saikrishnajanagama68@gmail.com
+- Ph num : +91 6281006609
 
 ---
