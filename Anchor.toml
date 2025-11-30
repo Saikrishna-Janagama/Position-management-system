@@ -1,0 +1,18 @@
+
+[package]
+name = "position_management"
+type = "program"
+version = "0.1.0"
+edition = "2021"
+
+[provider]
+cluster = "Devnet"
+wallet = "~/.config/solana/id.json"
+
+[programs.devnet]
+position_management = "6NnMPpT6i5SmsV1cUSjDwUx5QxGKsUSTEeVzngCEm1Ma"
+
+[scripts]
+build = "anchor build"
+
+

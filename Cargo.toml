@@ -1,0 +1,14 @@
+[workspace]
+members = [ "backend",
+    "programs/position-management",
+]
+resolver = "2"
+
+[profile.release]
+opt-level = "s"
+lto = "fat"
+codegen-units = 1
+debug = false
+
+
+overflow-checks = true
